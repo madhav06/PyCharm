@@ -1,3 +1,3 @@
 # PyCharm
 
-This is exercises learning from kaggle python tutorials
+Exercises learning from kaggle python tutorials
