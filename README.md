@@ -1,6 +1,6 @@
 # PyCharm 
 
-  
+ 
 
 1. Hello Python: A quick Intro to python, variables, assignments and numbers 
 
@@ -26,4 +26,9 @@
 
  
 
-7. Working with external libraries: imports, operator overloading and survival tips for venturing into world of external libs.  
+7. Working with external libraries: imports, operator overloading and survival tips for venturing into world of external libs.
+
+
+
+
+link to tutorial: https://www.kaggle.com/learn/python
