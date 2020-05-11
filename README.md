@@ -32,3 +32,5 @@
 
 
 link to tutorial: https://www.kaggle.com/learn/python
+
+link to edabit challenges: https://edabit.com/challenges
