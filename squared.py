@@ -3,7 +3,6 @@
 #Fix the code in the code tab to pass this challenge (only syntax errors). 
 # create a code that output square of input.
 
-
 #squared(5) ➞ 25
 
 #squared(9) ➞ 81
